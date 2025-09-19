@@ -1,1 +1,3 @@
-test github
+function onLoad()
+  print('test')
+end
